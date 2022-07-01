@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/loginusinghooks/static/css/main.27eca0d3.chunk.css",
+    "main.js": "/loginusinghooks/static/js/main.92ebb220.chunk.js",
+    "main.js.map": "/loginusinghooks/static/js/main.92ebb220.chunk.js.map",
+    "runtime-main.js": "/loginusinghooks/static/js/runtime-main.a0aa959c.js",
+    "runtime-main.js.map": "/loginusinghooks/static/js/runtime-main.a0aa959c.js.map",
+    "static/js/2.1253ce51.chunk.js": "/loginusinghooks/static/js/2.1253ce51.chunk.js",
+    "static/js/2.1253ce51.chunk.js.map": "/loginusinghooks/static/js/2.1253ce51.chunk.js.map",
+    "index.html": "/loginusinghooks/index.html",
+    "static/css/main.27eca0d3.chunk.css.map": "/loginusinghooks/static/css/main.27eca0d3.chunk.css.map",
+    "static/js/2.1253ce51.chunk.js.LICENSE.txt": "/loginusinghooks/static/js/2.1253ce51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0aa959c.js",
+    "static/js/2.1253ce51.chunk.js",
+    "static/css/main.27eca0d3.chunk.css",
+    "static/js/main.92ebb220.chunk.js"
+  ]
+}
